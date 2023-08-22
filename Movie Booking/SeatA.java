@@ -12,8 +12,7 @@ public class SeatA {
         hmap.put("A7",false);
         hmap.put("A8",false);
         hmap.put("A9",false);
-    }
-    static{
+
         hmap.put("B1",false);
         hmap.put("B2",false);
         hmap.put("B3",false);
@@ -21,8 +20,7 @@ public class SeatA {
         hmap.put("B5",false);
         hmap.put("B6",false);
         hmap.put("B7",false);
-    }
-    static{
+
         hmap.put("C2",false);
         hmap.put("C3",false);
         hmap.put("C4",false);
